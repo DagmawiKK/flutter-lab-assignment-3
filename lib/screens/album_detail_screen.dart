@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../bloc/album_detail_bloc.dart';
-import '../models/photo.dart';
 
 class AlbumDetailScreen extends StatelessWidget {
   final int albumId;
